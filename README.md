@@ -61,7 +61,7 @@
 
 -  **会议内容：** 
 
-**一、**老师听取之后，初步定下以下几篇内容需要再深入了解， 				并思考是否能应用到我们这个项目中：
+ **一、** 老师听取之后，初步定下以下几篇内容需要再深入了解， 				并思考是否能应用到我们这个项目中：
 
 1. l A new multi-satellite autonomous mission allocation and planning method（马志昕）
 2. l A mixed integer linear programming model for multi-satellite scheduling（马志昕）
